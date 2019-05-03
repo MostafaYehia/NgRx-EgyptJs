@@ -2,6 +2,12 @@
 
 An abstracted example of NgRx without using Actiona classes or separating files
 
+```
+Tou should install the [Redux devtools extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+) to be able to see dispatched actions on chrom devtools in the "Redux" tap
+
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
