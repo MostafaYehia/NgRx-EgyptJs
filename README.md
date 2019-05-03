@@ -1,6 +1,6 @@
-# NgrxEgyptjs
+# NgRx-Egyptjs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+An abstracted example of NgRx without using Actiona classes or separating files
 
 ## Development server
 
