@@ -2,11 +2,10 @@
 
 An abstracted example of NgRx without using Actiona classes or separating files
 
-```
-Tou should install the [Redux devtools extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
-) to be able to see dispatched actions on chrom devtools in the "Redux" tap
 
-```
+Tou should install [Redux devtools extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+) to be able to see dispatched actions stream and the whole app state in chrome devtools in the "Redux" tap
+
 
 ## Development server
 
