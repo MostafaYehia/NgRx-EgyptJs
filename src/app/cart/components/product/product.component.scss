@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    padding: 12px;
+    min-height: 130px;
+    border: 1px solid #9c9c9c;
+    border-radius: 7px;
+    margin: 0 10px;
+    background: rgb(85, 0, 165);
+    color: white;
+
+    .price {
+        position: absolute;
+        bottom: 10px;
+    }
+}

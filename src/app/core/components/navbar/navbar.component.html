@@ -1,0 +1,18 @@
+<div class="container">
+
+    <div class="project-title" style="display: flex">
+            <img src="../../../../assets/imgs/badge.svg" alt="" srcset="">
+            <h1>NgRx - Abstracted</h1>
+    </div>
+
+    <div class="tools">
+        <div class="current-user">{{usernname$ | async}}</div>
+        <button (click)="addProduct()" class="btn count-btn">Add product</button>
+        <button (click)="countUp()" class="btn count-btn">Count Up</button>
+        <button (click)="countDown()" class="btn count-btn">Count Down</button>
+        <button *ngIf="loggedIn" (click)="logout()" class="btn logout-btn">Logout</button>
+        <button *ngIf="!loggedIn" (click)="login()" class="btn login-btn">Login</button>
+    </div>
+
+
+</div>
