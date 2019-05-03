@@ -1,6 +1,6 @@
 # NgRx-Egyptjs
 
-An abstracted example of NgRx without using Actiona classes or separating files
+### An abstracted example of NgRx without using Actiona classes or separating files
 
 
 Tou should install [Redux devtools extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
